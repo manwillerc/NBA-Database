@@ -1,2 +1,1 @@
-# NBA-Database
-Database of all NBA Players, teams, games, and statlines
+This repository contains a PostgreSQL database and CSV exports for historical NBA statistics, including players, teams, games, and detailed player stats. The database is designed for analysis, learning SQL, or integrating into applications like analytics tools or sports apps.
